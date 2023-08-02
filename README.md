@@ -1,4 +1,4 @@
-**#Link to Visit the app**:
+# Live Demo:
 https://text-utils-updated-eta.vercel.app/
 
 # Getting Started with Create React App
